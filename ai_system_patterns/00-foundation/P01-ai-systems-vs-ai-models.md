@@ -73,27 +73,13 @@ Confusing the two is the root of most AI disappointments.
 
 ---
 
-## System Diagram (Conceptual)
+## AI System Diagnostic Diagram 
 
-```
-
-Inputs
-↓
-AI Model
-↓
-Scores / Predictions / Reasoning
-↓
-Policy & Decision Logic
-↓
-Action
-↓
-Human Oversight (conditional)
-↓
-Outcome
-↓
-Monitoring & Feedback
-
-```
+<div style="padding-top: 25px;">
+<img src="p01.png" alt="AI System Diagnostic Diagram" width="300" height="500"/>
+</div>
+The **model** is one box.  
+The **system** is everything else.
 
 The **model** is one box.  
 The **system** is everything else.
@@ -191,5 +177,6 @@ This is where AI becomes infrastructure, not experimentation.
 ## One-Sentence Summary
 
 > **Models generate intelligence. Systems generate outcomes. Sustainable AI advantage comes from owning the system, not optimizing the model.**
+
 
 
