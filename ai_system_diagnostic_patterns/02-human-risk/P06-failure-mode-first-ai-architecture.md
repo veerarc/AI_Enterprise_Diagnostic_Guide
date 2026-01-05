@@ -1,5 +1,5 @@
 
-# AI System Pattern P06: Failure-Mode–First AI Architecture
+# AI System Diagnostic Pattern P06: Failure-Mode–First AI Architecture
 
 ## Problem
 

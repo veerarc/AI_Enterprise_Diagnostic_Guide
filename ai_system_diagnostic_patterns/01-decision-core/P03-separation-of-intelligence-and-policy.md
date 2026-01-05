@@ -1,5 +1,5 @@
 
-# AI System Pattern P03: Separation of Intelligence and Policy
+# AI System Diagnostic Pattern P03: Separation of Intelligence and Policy
 
 ## Problem
 

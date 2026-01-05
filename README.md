@@ -61,7 +61,7 @@ Sustainable AI advantage comes from **owning the system**, not optimizing the mo
 
 ## Repository Map (Start Here)
 
-For a full overview, see [`PATTERN_INDEX.md`](./ai_system_patterns/PATTERN_INDEX.md).
+For a full overview, see [`PATTERN_INDEX.md`](./ai_system_diagnostic_patterns/PATTERN_INDEX.md).
 
 Below is a **guided entry point with direct links**.
 
@@ -71,10 +71,10 @@ Below is a **guided entry point with direct links**.
 
 These patterns establish **how to think about AI systems**.
 
-- **[P00 — Why Patterns, Not Models](./ai_system_patterns/00-foundation/P00-why-patterns-not-models.md)**  
+- **[P00 — Why Patterns, Not Models](./ai_system_diagnostic_patterns/00-foundation/P00-why-patterns-not-models.md)**  
   Why durable AI value comes from systems, not model choice.
 
-- **[P01 — AI Systems vs AI Models](./ai_system_patterns/00-foundation/P01-ai-systems-vs-ai-models.md)**  
+- **[P01 — AI Systems vs AI Models](./ai_system_diagnostic_patterns/00-foundation/P01-ai-systems-vs-ai-models.md)**  
   Draws the boundary between intelligence and decision-making.
 
 ---
@@ -83,13 +83,13 @@ These patterns establish **how to think about AI systems**.
 
 These patterns define **who decides what, and under what constraints**.
 
-- **[P02 — Decision Support → Decision Automation Gradient](./ai_system_patterns/01-decision-core/P02-decision-support-to-automation-gradient.md)**  
+- **[P02 — Decision Support → Decision Automation Gradient](./ai_system_diagnostic_patterns/01-decision-core/P02-decision-support-to-automation-gradient.md)**  
   Introduces phased automation instead of binary automation.
 
-- **[P03 — Separation of Intelligence and Policy](./ai_system_patterns/01-decision-core/P03-separation-of-intelligence-and-policy.md)**  
+- **[P03 — Separation of Intelligence and Policy](./ai_system_diagnostic_patterns/01-decision-core/P03-separation-of-intelligence-and-policy.md)**  
   Keeps business rules out of models.
 
-- **[P04 — Cost–Quality–Risk Control Surface](./ai_system_patterns/01-decision-core/P04-cost-quality-risk-control-surface.md)**  
+- **[P04 — Cost–Quality–Risk Control Surface](./ai_system_diagnostic_patterns/01-decision-core/P04-cost-quality-risk-control-surface.md)**  
   Makes AI economically governable.
 
 ---
@@ -98,13 +98,13 @@ These patterns define **who decides what, and under what constraints**.
 
 These patterns explain **how AI earns trust in real environments**.
 
-- **[P05 — Human-in-the-Loop at Uncertainty Boundaries](./ai_system_patterns/02-human-risk/P05-human-in-the-loop-at-uncertainty-boundaries.md)**  
+- **[P05 — Human-in-the-Loop at Uncertainty Boundaries](./ai_system_diagnostic_patterns/02-human-risk/P05-human-in-the-loop-at-uncertainty-boundaries.md)**  
   Places humans where judgment adds value.
 
-- **[P06 — Failure-Mode–First AI Architecture](./ai_system_patterns/02-human-risk/P06-failure-mode-first-ai-architecture.md)**  
+- **[P06 — Failure-Mode–First AI Architecture](./ai_system_diagnostic_patterns/02-human-risk/P06-failure-mode-first-ai-architecture.md)**  
   Designs systems around unacceptable outcomes.
 
-- **[P07 — Audit-First AI Design](./ai_system_patterns/02-human-risk/P07-audit-first-ai-design.md)**  
+- **[P07 — Audit-First AI Design](./ai_system_diagnostic_patterns/02-human-risk/P07-audit-first-ai-design.md)**  
   Ensures every decision can be reconstructed and defended.
 
 ---
@@ -113,13 +113,13 @@ These patterns explain **how AI earns trust in real environments**.
 
 These patterns govern **multi-step, adaptive AI systems**.
 
-- **[P08 — Retrieval–Reasoning–Action Feedback Loop](./ai_system_patterns/03-system-dynamics/P08-retrieval-reasoning-action-feedback-loop.md)**  
+- **[P08 — Retrieval–Reasoning–Action Feedback Loop](./ai_system_diagnostic_patterns/03-system-dynamics/P08-retrieval-reasoning-action-feedback-loop.md)**  
   Enables controlled agentic behavior.
 
-- **[P09 — Confidence-Calibrated Routing](./ai_system_patterns/03-system-dynamics/P09-confidence-calibrated-routing.md)**  
+- **[P09 — Confidence-Calibrated Routing](./ai_system_diagnostic_patterns/03-system-dynamics/P09-confidence-calibrated-routing.md)**  
   Turns uncertainty into a routing primitive.
 
-- **[P10 — Graceful Degradation and Safe Fallbacks](./ai_system_patterns/03-system-dynamics/P10-graceful-degradation-and-safe-fallbacks.md)**  
+- **[P10 — Graceful Degradation and Safe Fallbacks](./ai_system_diagnostic_patterns/03-system-dynamics/P10-graceful-degradation-and-safe-fallbacks.md)**  
   Preserves trust under stress and drift.
 
 ---
@@ -128,13 +128,13 @@ These patterns govern **multi-step, adaptive AI systems**.
 
 These patterns determine **whether AI compounds or stalls**.
 
-- **[P11 — AI as a Platform, Not a Project](./ai_system_patterns/04-operating-model/P11-ai-as-a-platform-not-a-project.md)**  
+- **[P11 — AI as a Platform, Not a Project](./ai_system_diagnostic_patterns/04-operating-model/P11-ai-as-a-platform-not-a-project.md)**  
   Explains how AI scales across use cases.
 
-- **[P12 — Model-Agnostic System Design](./ai_system_patterns/04-operating-model/P12-model-agnostic-system-design.md)**  
+- **[P12 — Model-Agnostic System Design](./ai_system_diagnostic_patterns/04-operating-model/P12-model-agnostic-system-design.md)**  
   Future-proofs systems against model churn.
 
-- **[P13 — AI Ownership and Seam Mapping](./ai_system_patterns/04-operating-model/P13-ai-ownership-and-seam-mapping.md)**  
+- **[P13 — AI Ownership and Seam Mapping](./ai_system_diagnostic_patterns/04-operating-model/P13-ai-ownership-and-seam-mapping.md)**  
   Prevents failures at organizational boundaries.
 
 ---
@@ -143,13 +143,13 @@ These patterns determine **whether AI compounds or stalls**.
 
 These patterns make AI **measurable, comparable, and scalable**.
 
-- **[P14 — Unit Economics per Decision](./ai_system_patterns/05-economics-scale/P14-unit-economics-per-decision.md)**  
+- **[P14 — Unit Economics per Decision](./ai_system_diagnostic_patterns/05-economics-scale/P14-unit-economics-per-decision.md)**  
   Measures AI value one decision at a time.
 
-- **[P15 — Long-Tail and Edge-Case Handling](./ai_system_patterns/05-economics-scale/P15-long-tail-and-edge-case-handling.md)**  
+- **[P15 — Long-Tail and Edge-Case Handling](./ai_system_diagnostic_patterns/05-economics-scale/P15-long-tail-and-edge-case-handling.md)**  
   Controls the rare cases that dominate cost and risk.
 
-- **[P16 — Progressive Trust and Scope Expansion](./ai_system_patterns/05-economics-scale/P16-progressive-trust-and-scope-expansion.md)**  
+- **[P16 — Progressive Trust and Scope Expansion](./ai_system_diagnostic_patterns/05-economics-scale/P16-progressive-trust-and-scope-expansion.md)**  
   Expands AI authority safely over time.
 
 ---
@@ -158,13 +158,13 @@ These patterns make AI **measurable, comparable, and scalable**.
 
 These patterns ensure AI systems **remain safe and relevant after deployment**.
 
-- **[P17 — Policy Versioning with Stable Models](./ai_system_patterns/06-governance-evolution/P17-policy-versioning-with-stable-models.md)**  
+- **[P17 — Policy Versioning with Stable Models](./ai_system_diagnostic_patterns/06-governance-evolution/P17-policy-versioning-with-stable-models.md)**  
   Allows rules to evolve without destabilizing systems.
 
-- **[P18 — Post-Deployment Learning Loops](./ai_system_patterns/06-governance-evolution/P18-post-deployment-learning-loops.md)**  
+- **[P18 — Post-Deployment Learning Loops](./ai_system_diagnostic_patterns/06-governance-evolution/P18-post-deployment-learning-loops.md)**  
   Enables controlled learning from real-world outcomes.
 
-- **[P19 — Silent Failure Detection](./ai_system_patterns/06-governance-evolution/P19-silent-failure-detection.md)**  
+- **[P19 — Silent Failure Detection](./ai_system_diagnostic_patterns/06-governance-evolution/P19-silent-failure-detection.md)**  
   Detects failures that look like success.
 
 ---

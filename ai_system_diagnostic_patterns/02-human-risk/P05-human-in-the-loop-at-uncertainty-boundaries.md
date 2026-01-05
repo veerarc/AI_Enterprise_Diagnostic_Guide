@@ -1,5 +1,5 @@
 
-# AI System Pattern P05: Human-in-the-Loop at Uncertainty Boundaries
+# AI System Diagnostic Pattern P05: Human-in-the-Loop at Uncertainty Boundaries
 
 ## Problem
 

@@ -1,5 +1,5 @@
 
-# AI System Pattern P02: Decision Support → Decision Automation Gradient
+# AI System Diagnostic Pattern P02: Decision Support → Decision Automation Gradient
 
 ## Problem
 

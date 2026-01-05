@@ -1,4 +1,4 @@
-# AI System Pattern P01: AI Systems vs AI Models
+# AI System Diagnostic Pattern P01: AI Systems vs AI Models
 
 ## Problem
 

@@ -1,5 +1,5 @@
 
-# AI System Pattern P07: Audit-First AI Design
+# AI System Diagnostic Pattern P07: Audit-First AI Design
 
 ## Problem
 

@@ -1,5 +1,5 @@
 
-# AI System Pattern P04: Cost–Quality–Risk Control Surface
+# AI System Diagnostic Pattern P04: Cost–Quality–Risk Control Surface
 
 ## Problem
 

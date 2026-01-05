@@ -1,5 +1,5 @@
 
-# AI System Pattern P00: Why Patterns, Not Models
+# AI System Diagnostic Pattern P00: Why Patterns, Not Models
 
 ## Problem
 
