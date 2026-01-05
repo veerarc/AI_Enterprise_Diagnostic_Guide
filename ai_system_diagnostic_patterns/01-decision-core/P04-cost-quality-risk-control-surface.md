@@ -51,7 +51,6 @@ This pattern lives primarily in the **Policy & Controls** layer and is enforced 
 <img src="p04.png" alt="AI System Diagnostic Diagram" width="600" height="500"/>
 </div>
 
-
 **Key annotation:**
 Trade-offs are controlled **outside the model**, via policy thresholds informed by monitoring.
 

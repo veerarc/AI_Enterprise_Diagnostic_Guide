@@ -46,8 +46,9 @@ Each stage expands *only after* the system proves reliability, economics, and tr
 ## AI System Diagnostic Diagram 
 
 <div style="padding-top: 25px;">
-<img src="p02.png" alt="AI System Diagnostic Diagram" width="500" height="500"/>
+<img src="p02.png" alt="AI System Diagnostic Diagram" width="600" height="500"/>
 </div>
+
 
 **Key annotation:**
 The automation gradient is **not** inside the model.
