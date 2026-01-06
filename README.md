@@ -61,8 +61,6 @@ Sustainable AI advantage comes from **owning the system**, not optimizing the mo
 
 ## Repository Map (Start Here)
 
-For a full overview, see [`PATTERN_INDEX.md`](./ai_system_diagnostic_patterns/PATTERN_INDEX.md).
-
 Below is a **guided entry point with direct links**.
 
 ---
