@@ -139,7 +139,7 @@ Effective architectural patterns and monitoring mitigate these trade-offs.
 
 ---
 
-## **Summary: **
+## **Summary:**
 
 1. **Cost is a design constraint, not an optimization afterthought.**
 2. **Tiered models reduce unnecessary expensive invocations.**
